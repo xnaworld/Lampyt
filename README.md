@@ -7,6 +7,7 @@ Lampyt is a tool that can convert a file into a pay file. Through a pay file, an
 ### Environment ###
 requirement:
    .net framework 4.7.2
+   
    NET 6.0 Desktop Runtime (v6.0.22)
    
    Win10(recommend)
